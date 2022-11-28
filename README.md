@@ -107,3 +107,10 @@ At the second terminal, execute the following commands:
 `python /opt/carla-simulator/PythonAPI/util/config.py -m <map_name>`
 `python /opt/carla-simulator/PythonAPI/examples/manual_control.py`
 :tada:
+
+## Side note
+
+As part of this project, an infrastructure for tracking algorithms fusion was built.
+
+More info can be found on a separate repository:
+https://github.com/xqgex/SecurityofCyberPhysicalSystems
